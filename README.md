@@ -11,7 +11,7 @@
 - [Installation](#installation)
 - [Main Features](#main-features)
 - [Reporting Issues](#reporting-issues)
-- [Technical Support or Questions](#technical-support-or-questions)
+- [Technical Support or Questions](#technical-support-or-questions-(paid))
 - [More Hugo Themes](https://gethugothemes.com/shop/)
 
 ## Demo
@@ -22,10 +22,12 @@
 
 Navigate to your themes folder in your Hugo site and use the following commands:
 
+**Note : You must use `hugo-extended` version to compile SCSS**
+
 ```
 $ mkdir themes
 $ cd themes
-$ git clone git@github.com:themefisher/influencer-hugo.git
+$ git clone https://github.com/themefisher/Influencer-hugo.git
 ```
 
 ## Main features
@@ -42,7 +44,7 @@ $ git clone git@github.com:themefisher/influencer-hugo.git
 We use GitHub Issues as the official bug tracker for the Navigator Template. Please Search [existing issues](https://github.com/themefisher/influencer-hugo/issues). It’s possible someone has already reported the same problem.
 If your problem or idea is not addressed yet, [open a new issue](https://github.com/themefisher/influencer-hugo/issues)
 
-## Technical Support or Questions
+## Technical Support or Questions (Paid)
 
 If you have questions or need help integrating the product please [contact us](mailto:themefisher@gmail.com) instead of opening an issue.  
 
